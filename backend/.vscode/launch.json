@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MyCalApplication<myCal>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "sg.edu.ntu.scse.dgjmqz.myCal.MyCalApplication",
+            "projectName": "myCal",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
